@@ -1,0 +1,5 @@
+# Charging
+vendor/bin/batt_health
+vendor/bin/hvdcp_opti
+vendor/bin/init.qti.chg_policy.sh  
+vendor/etc/charger_fstab.qti
